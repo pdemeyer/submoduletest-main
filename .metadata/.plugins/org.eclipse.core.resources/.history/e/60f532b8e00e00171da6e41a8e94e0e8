@@ -1,0 +1,8 @@
+
+
+
+function testLibFunction() {
+	
+	return "test from lib";
+}
+

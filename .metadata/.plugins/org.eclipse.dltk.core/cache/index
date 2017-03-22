@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="4" environment="org.eclipse.dltk.core.environment.localEnvironment">
-  <entries path="/Users/pdemeyer/Git/submoduletest-main/main/globals.js" timestamp="1490173621000" lastAccessTime="1490173622698"/>
-  <entries path="/Users/pdemeyer/Git/submoduletest-main/main" timestamp="1490173622000" lastAccessTime="1490173622699">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/600853500/3.idx"/>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="14" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/pdemeyer/Git/submoduletest-main/main/globals.js" timestamp="1490173621000" lastAccessTime="1490174471043">
+    <attributes name="indexed" location="2838196607/3912138113/5.idx"/>
   </entries>
+  <entries path="/Users/pdemeyer/Git/submoduletest-main/submoduletest-lib/lib" timestamp="1490174293000" lastAccessTime="1490174398897">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/896401018/7.idx"/>
+  </entries>
+  <entries path="/Users/pdemeyer/Git/submoduletest-main/main/forms/MainForm.frm" timestamp="1490174414000" lastAccessTime="1490174471044"/>
 </cache:CacheIndex>
