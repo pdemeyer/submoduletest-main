@@ -1,0 +1,3 @@
+[submodule "submoduletest-lib"]
+	path = submoduletest-lib
+	url = https://github.com/pdemeyer/submoduletest-lib.git
